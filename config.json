@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfelete",
+        "uuid": 15220010,
+        "checksum": "lk9y5p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
